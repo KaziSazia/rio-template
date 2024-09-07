@@ -1,0 +1,9 @@
+.container-faq {
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-bottom: 50px;
+  align-items: center;
+  /* background-color: #5a67d8; */
+}
